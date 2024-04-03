@@ -1,9 +1,9 @@
  # (Week 1 Code Challenge )
 
- ## Author 
+ ## AUTHOR 
  [Neema Charity](https://github.com/Neema-Charity) 
 
- ## Description
+ ## DESCRIPTION
  It's a challenge that consists of 3 programs.
 
  ### Program 1: Student Grade Generator (Toy Problem)
@@ -16,14 +16,14 @@
  Calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. It calculates the Payee, NHIFDeductions, NSSFDeductions, Gross Salary, and Net Salary. 
 
 
- ## Live Site
+ ## LIVE SITE
  http://127.0.0.1:5500/
 
- ## Technologies used
+ ## TECHNOLOGIES
  HTML
  Javascript
 
- ## Support and contact details
+ ## CONTACT DETAILS
  You can reach out to me through:
  
  [Github](github.com/Neema-Charity)
