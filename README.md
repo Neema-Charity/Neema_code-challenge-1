@@ -25,7 +25,8 @@
 
  ## Support and contact details
  You can reach out to me through:
- [Github](github.com/Neema-Charity)/n
+ [Github](github.com/Neema-Charity)
+ 
  [Email](mailto:ncharityyy@gmail.com)
  
 
